@@ -1,0 +1,23 @@
+header {
+	width: 100%;
+	height: 100px;
+	background-color: #eebb43;
+	margin-bottom: 40px;
+}
+
+div {
+	margin-bottom: 20px;
+}
+
+.col-4 {
+	border: 1px solid grey;
+}
+
+.cardimg {
+	width: 100%;
+	height: 100%;
+}
+
+.cardtext {
+	padding: 20px;
+}
